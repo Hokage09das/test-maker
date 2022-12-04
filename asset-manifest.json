@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-maker/static/css/main.ce64ea30.css",
+    "main.js": "/test-maker/static/js/main.6a760089.js",
+    "index.html": "/test-maker/index.html",
+    "main.ce64ea30.css.map": "/test-maker/static/css/main.ce64ea30.css.map",
+    "main.6a760089.js.map": "/test-maker/static/js/main.6a760089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce64ea30.css",
+    "static/js/main.6a760089.js"
+  ]
+}
